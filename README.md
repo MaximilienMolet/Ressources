@@ -34,7 +34,7 @@
 
 -----
 
-### BookStack
+## BookStack
 
 - Documentation : https://www.bookstackapp.com/docs
 
