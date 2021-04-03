@@ -92,6 +92,22 @@
 
 - Général : https://doc.ubuntu-fr.org/wordpress
 
+- GDPR Cookie Compliance : https://fr.wordpress.org/plugins/gdpr-cookie-compliance
+
+- Sécurité WordPress : https://kinsta.com/fr/blog/securite-wordpress
+
+- SecuPress : https://fr.wordpress.org/plugins/secupress
+
+- TinyMCE Advanced : https://fr.wordpress.org/plugins/tinymce-advanced
+
+- Classic Editor : https://fr.wordpress.org/plugins/classic-editor
+
+- Yoast SEO : https://fr.wordpress.org/plugins/wordpress-seo
+
+- Yoast Duplicate Post : https://fr.wordpress.org/plugins/duplicate-post
+
+- UpdraftPlus Backup Plugin : https://fr.wordpress.org/plugins/updraftplus
+
 -----
  
 ## SPIP
@@ -103,6 +119,12 @@
 - Installation : https://docs.nextcloud.com/server/18/admin_manual/installation/source_installation.html
 
 - Exemple - Installation (Ubuntu) : https://docs.nextcloud.com/server/18/admin_manual/installation/example_ubuntu.html
+
+-----
+
+## Moodle
+
+-Thème Academi : https://moodle.org/plugins/theme_academi
 
 -----
  
