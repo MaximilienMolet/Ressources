@@ -8,7 +8,9 @@
 
 - Installation - VirtualBox : https://www.informatiweb.net/tutoriels/informatique/virtualisation/virtualbox-installation-sous-linux.html
 
-- Installation - Serveur NTP : https://www.geek17.com/fr/content/debian-9-stretch-mettre-a-jour-automatiquement-l-heure-de-votre-serveur-62
+- Installation - Serveur NTP (Geek 17) : https://www.geek17.com/fr/content/debian-9-stretch-mettre-a-jour-automatiquement-l-heure-de-votre-serveur-62
+
+- Installation - Serveur NTP (Digital Ocean) : https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-18-04
 
 - Commandes de Base - Linux : https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
 
@@ -86,11 +88,15 @@
 
 - PHP : https://doc.ubuntu-fr.org/php
 
+- Installation : https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+
 -----
  
 ## WordPress
 
 - Général : https://doc.ubuntu-fr.org/wordpress
+
+- Installation : https://linuxconfig.org/how-to-install-wordpress-on-ubuntu-18-04-bionic-beaver-linux
 
 - GDPR Cookie Compliance : https://fr.wordpress.org/plugins/gdpr-cookie-compliance
 
