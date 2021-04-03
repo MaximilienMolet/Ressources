@@ -124,7 +124,7 @@
 
 ## Moodle
 
--Thème Academi : https://moodle.org/plugins/theme_academi
+- Thème Academi : https://moodle.org/plugins/theme_academi
 
 -----
  
