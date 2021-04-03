@@ -14,9 +14,9 @@
 
 - Installation - Serveur FTP : https://doc.ubuntu-fr.org/proftpd
 
-- Installation - Team Viewer :
+- Installation - Team Viewer : https://artheodoc.wordpress.com/2017/07/06/installation-de-teamviewer-sous-debian-9-stretch-64-bits
 
-- Hosts Man :
+- Hosts Man : http://www.abelhadigital.com/hostsman
  
 -----
  
