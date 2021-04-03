@@ -76,6 +76,22 @@
  
 ## KeyCloak
 
+- Installation () : https://www.keycloak.org/docs/latest/server_installation/index.html
+
+- Installation (Medium) : https://medium.com/@hasnat.saeed/setup-keycloak-server-on-ubuntu-18-04-ed8c7c79a2d9
+
+- Intégration du LDAP (Abas) : https://documentation.abas.cloud/en/abas-keycloak/setup-user-federation-ldap.html
+
+- Intégration du LDAP (Janua) : https://www.janua.fr/ldap-integration-with-keycloak
+
+- WordPress et KeyCloak : https://home.cleon.re/sso-keycloak-avec-wordpress
+
+- NextCloud et KeyCloak (Janik Vonrotz) : https://janikvonrotz.ch/2020/10/20/openid-connect-with-nextcloud-and-keycloak
+
+- NextCloud et KeyCloak (Life of Lachlan) : https://blog.lachlanlife.net/nextcloud-part-3-single-sign-on-with-keycloak
+
+- Moodle et KeyCloak : https://plugins.miniorange.com/moodle-saml-single-sign-on-sso-for-keycloak
+
 -----
  
 ## Lamp
