@@ -56,30 +56,6 @@
 
 -----
  
-## Java
-
-- Installation - OpenJDK : https://linoxide.com/install-java-8-debian-gnulinux-9-stretch
-
------
- 
-## Tomcat
-
-- Installation : https://linuxize.com/post/how-to-install-tomcat-8-5-on-debian-9
-
-- Configurer SSL : https://tecadmin.net/configure-ssl-certificate-in-tomcat
-
------
- 
-## CAS
-
-- Dépôt GitHub : https://github.com/apereo/cas-overlay-template/tree/5.3
-
-- Installation (The New School) : https://dacurry-tns.github.io/deploying-apereo-cas/introduction_overview.html
-
-- Installation (YerbyNet) : http://www.yerbynet.com/Cours/CASInstallation.pdf
-
------
- 
 ## Lamp
 
 - Général : https://doc.ubuntu-fr.org/lamp
@@ -125,6 +101,16 @@
 - One Click Accessibility : https://fr.wordpress.org/plugins/pojo-accessibility
 
 - Guide WooCommerce : https://woofrance.fr/wp-content/uploads/2017/08/GUIDE-UTILISATEUR-WOOCOMMERCE-2017-2018.pdf
+
+- Ocean WP : https://fr.wordpress.org/themes/oceanwp
+
+- ColorMag : https://fr.wordpress.org/themes/colormag
+
+- MH Magazine Lite : https://fr.wordpress.org/themes/mh-magazine-lite
+
+- WooCommerce : https://fr.wordpress.org/plugins/woocommerce
+
+- Authorizer : https://fr.wordpress.org/plugins/authorizer
 
 -----
  
