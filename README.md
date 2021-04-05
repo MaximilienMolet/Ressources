@@ -102,7 +102,7 @@
 
 - GDPR Cookie Compliance : https://fr.wordpress.org/plugins/gdpr-cookie-compliance
 
-- Sécurité WordPress : https://kinsta.com/fr/blog/securite-wordpress
+- Sécurité : https://kinsta.com/fr/blog/securite-wordpress
 
 - SecuPress : https://fr.wordpress.org/plugins/secupress
 
