@@ -21,6 +21,12 @@
 - Hosts Man : http://www.abelhadigital.com/hostsman
  
 -----
+
+## Postfix - Dovecot & LDAP
+
+- Installation : https://antoinepernot.fr/articles/installation-mail
+
+-----
  
 ## Gitea
 
@@ -109,6 +115,16 @@
 - Yoast Duplicate Post : https://fr.wordpress.org/plugins/duplicate-post
 
 - UpdraftPlus Backup Plugin : https://fr.wordpress.org/plugins/updraftplus
+
+- Thème Enfant : https://kinsta.com/fr/blog/theme-enfant-wordpress
+
+- Multisite : https://kinsta.com/fr/blog/multisite-wordpress
+
+- WP Job Manager : https://kinsta.com/fr/blog/plugin-emploi-wordpress
+
+- One Click Accessibility : https://fr.wordpress.org/plugins/pojo-accessibility
+
+- Guide WooCommerce : https://woofrance.fr/wp-content/uploads/2017/08/GUIDE-UTILISATEUR-WOOCOMMERCE-2017-2018.pdf
 
 -----
  
