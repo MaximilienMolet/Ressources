@@ -19,12 +19,24 @@
 - Installation - Team Viewer : https://artheodoc.wordpress.com/2017/07/06/installation-de-teamviewer-sous-debian-9-stretch-64-bits
 
 - Hosts Man : http://www.abelhadigital.com/hostsman
+
+- Webmin : https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-9
  
 -----
 
 ## Postfix - Dovecot & LDAP
 
 - Installation : https://antoinepernot.fr/articles/installation-mail
+
+-----
+
+## Samba
+
+- Installation (Server World) : https://www.server-world.info/en/note?os=Debian_9&p=samba&f=2
+
+- Installation (How To Forge) : https://www.howtoforge.com/tutorial/debian-samba-server
+
+- Installation (Linux Config) : https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux
 
 -----
  
@@ -54,6 +66,8 @@
 
 - LDAP Admin : http://www.ldapadmin.org
 
+- Self Service Password : https://ltb-project.org/documentation/self-service-password
+
 -----
  
 ## Lamp
@@ -66,7 +80,11 @@
 
 - PHP : https://doc.ubuntu-fr.org/php
 
+- PHP - Version 7.x : https://www.itzgeek.com/how-tos/linux/debian/how-to-install-php-7-3-7-2-7-1-on-debian-10-debian-9-debian-8.html
+
 - Installation : https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+
+- Redirection HTTP / HTTPS : https://linuxize.com/post/redirect-http-to-https-in-apache
 
 -----
  
