@@ -66,8 +66,6 @@
 
 - LDAP Admin : http://www.ldapadmin.org
 
-- Self Service Password : https://ltb-project.org/documentation/self-service-password
-
 -----
  
 ## Lamp
@@ -119,8 +117,6 @@
 - One Click Accessibility : https://fr.wordpress.org/plugins/pojo-accessibility
 
 - Guide WooCommerce : https://woofrance.fr/wp-content/uploads/2017/08/GUIDE-UTILISATEUR-WOOCOMMERCE-2017-2018.pdf
-
-- Ocean WP : https://fr.wordpress.org/themes/oceanwp
 
 - ColorMag : https://fr.wordpress.org/themes/colormag
 
