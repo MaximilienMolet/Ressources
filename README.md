@@ -110,8 +110,6 @@
 
 - Thème Enfant : https://kinsta.com/fr/blog/theme-enfant-wordpress
 
-- Multisite : https://kinsta.com/fr/blog/multisite-wordpress
-
 - WP Job Manager : https://kinsta.com/fr/blog/plugin-emploi-wordpress
 
 - One Click Accessibility : https://fr.wordpress.org/plugins/pojo-accessibility
@@ -125,6 +123,18 @@
 - WooCommerce : https://fr.wordpress.org/plugins/woocommerce
 
 - Authorizer : https://fr.wordpress.org/plugins/authorizer
+
+- Font Awesome : https://fr.wordpress.org/plugins/font-awesome
+
+- Easy Fancy Box : https://fr.wordpress.org/plugins/easy-fancybox
+
+- WP Hide & Security Enhancer : https://fr.wordpress.org/plugins/wp-hide-security-enhancer
+
+- WP Private Content Plus : https://fr.wordpress.org/plugins/wp-private-content-plus
+
+- Nav Menu Roles : https://fr.wordpress.org/plugins/nav-menu-roles
+
+- BreadCrumb Nav XT : https://fr.wordpress.org/plugins/breadcrumb-navxt
 
 -----
  
