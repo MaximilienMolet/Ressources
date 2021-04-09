@@ -156,7 +156,7 @@
 
 -----
 
-## Kanboard :
+## Kanboard
 
 - Documentation : https://docs.kanboard.org/fr/latest
 
@@ -166,6 +166,6 @@
 
 -----
 
-## HumHub :
+## HumHub
 
 - Documentation : https://docs.humhub.org
