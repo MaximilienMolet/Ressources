@@ -34,7 +34,7 @@
 
 -----
  
-## Gitea
+## Gitea (Forge)
 
 - Documentation : https://docs.gitea.io/en-us
 
@@ -48,7 +48,7 @@
 
 -----
 
-## BookStack
+## BookStack (Documentation)
 
 - Documentation : https://www.bookstackapp.com/docs
 
@@ -80,7 +80,7 @@
 
 -----
  
-## WordPress
+## WordPress (ENT)
 
 - Général : https://doc.ubuntu-fr.org/wordpress
 
@@ -166,6 +166,6 @@
 
 -----
 
-## HumHub
+## HumHub (Intranet)
 
 - Documentation : https://docs.humhub.org
