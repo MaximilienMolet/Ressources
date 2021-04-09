@@ -102,13 +102,9 @@
 
 - [Thème Enfant](https://kinsta.com/fr/blog/theme-enfant-wordpress)
 
-- [WP Job Manager](https://kinsta.com/fr/blog/plugin-emploi-wordpress)
-
 - [One Click Accessibility](https://fr.wordpress.org/plugins/pojo-accessibility)
 
 - [ColorMag](https://fr.wordpress.org/themes/colormag)
-
-- [MH Magazine Lite](https://fr.wordpress.org/themes/mh-magazine-lite)
 
 - [Authorizer](https://fr.wordpress.org/plugins/authorizer)
 
