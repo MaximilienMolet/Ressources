@@ -21,12 +21,6 @@
 - Hosts Man : http://www.abelhadigital.com/hostsman
 
 - Webmin : https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-9
- 
------
-
-## Postfix - Dovecot & LDAP
-
-- Installation : https://antoinepernot.fr/articles/installation-mail
 
 -----
 
@@ -159,3 +153,19 @@
 - Pré-Requis : https://docs.cachethq.io/docs/prerequisites
 
 - Documentation : https://docs.cachethq.io/docs/installing-cachet
+
+-----
+
+## Kanboard :
+
+- Documentation : https://docs.kanboard.org/fr/latest
+
+- Installation : https://framacloud.org/fr/cultiver-son-jardin/kanboard.html
+
+- Guide "Administrateur" : https://docs.kanboard.org/en/latest/admin_guide/index.html
+
+-----
+
+## HumHub :
+
+- Documentation : https://docs.humhub.org
