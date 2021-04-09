@@ -12,160 +12,160 @@
 
 - [Installation - Serveur NTP (Digital Ocean)](https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-18-04)
 
-- Commandes de Base - Linux : https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
+- [Commandes de Base - Linux](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base)
 
-- Installation - Serveur FTP : https://doc.ubuntu-fr.org/proftpd
+- [Installation - Serveur FTP](https://doc.ubuntu-fr.org/proftpd)
 
-- Installation - Team Viewer : https://artheodoc.wordpress.com/2017/07/06/installation-de-teamviewer-sous-debian-9-stretch-64-bits
+- [Installation - Team Viewer](https://artheodoc.wordpress.com/2017/07/06/installation-de-teamviewer-sous-debian-9-stretch-64-bits)
 
-- Hosts Man : http://www.abelhadigital.com/hostsman
+- [Hosts Man](http://www.abelhadigital.com/hostsman)
 
-- Webmin : https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-9
+- [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-9)
 
 -----
 
 ## Samba
 
-- Installation (Server World) : https://www.server-world.info/en/note?os=Debian_9&p=samba&f=2
+- [Installation (Server World)](https://www.server-world.info/en/note?os=Debian_9&p=samba&f=2)
 
-- Installation (How To Forge) : https://www.howtoforge.com/tutorial/debian-samba-server
+- [Installation (How To Forge)](https://www.howtoforge.com/tutorial/debian-samba-server)
 
-- Installation (Linux Config) : https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux
+- [Installation (Linux Config)](https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux)
 
 -----
  
 ## Gitea (Forge)
 
-- Documentation : https://docs.gitea.io/en-us
+- [Documentation](https://docs.gitea.io/en-us)
 
-- Installation (Website for Students) : https://websiteforstudents.com/how-to-install-gitea-on-ubuntu-20-04-18-04
+- [Installation (Website for Students)](https://websiteforstudents.com/how-to-install-gitea-on-ubuntu-20-04-18-04)
 
-- Installation (Linux Host Support) : https://linuxhostsupport.com/blog/how-to-install-gitea-on-ubuntu-18-04
+- [Installation (Linux Host Support)](https://linuxhostsupport.com/blog/how-to-install-gitea-on-ubuntu-18-04)
 
-- Installation (Computing for Geeks) : https://computingforgeeks.com/how-to-install-gitea-git-service-on-ubuntu
+- [Installation (Computing for Geeks)](https://computingforgeeks.com/how-to-install-gitea-git-service-on-ubuntu)
 
-- Installation (Linuxize) : https://linuxize.com/post/how-to-install-gitea-on-ubuntu-18-04
+- [Installation (Linuxize)](https://linuxize.com/post/how-to-install-gitea-on-ubuntu-18-04)
 
 -----
 
 ## BookStack (Documentation)
 
-- Documentation : https://www.bookstackapp.com/docs
+- [Documentation](https://www.bookstackapp.com/docs)
 
 -----
  
 ## LDAP
 
-- Installation - OpenLDAP : http://idum.fr/spip.php?article326
+- [Installation - OpenLDAP](http://idum.fr/spip.php?article326)
 
-- LDAP Admin : http://www.ldapadmin.org
+- [LDAP Admin](http://www.ldapadmin.org)
 
 -----
  
 ## Lamp
 
-- Général : https://doc.ubuntu-fr.org/lamp
+- [Général](https://doc.ubuntu-fr.org/lamp)
 
-- Apache : https://doc.ubuntu-fr.org/apache2
+- [Apache](https://doc.ubuntu-fr.org/apache2)
 
-- MySQL : https://doc.ubuntu-fr.org/mysql
+- [MySQL](https://doc.ubuntu-fr.org/mysql)
 
-- PHP : https://doc.ubuntu-fr.org/php
+- [PHP](https://doc.ubuntu-fr.org/php)
 
-- PHP - Version 7.x : https://www.itzgeek.com/how-tos/linux/debian/how-to-install-php-7-3-7-2-7-1-on-debian-10-debian-9-debian-8.html
+- [PHP - Version 7.x](https://www.itzgeek.com/how-tos/linux/debian/how-to-install-php-7-3-7-2-7-1-on-debian-10-debian-9-debian-8.html)
 
-- Installation : https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+- [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
-- Redirection HTTP / HTTPS : https://linuxize.com/post/redirect-http-to-https-in-apache
+- [Redirection HTTP / HTTPS](https://linuxize.com/post/redirect-http-to-https-in-apache)
 
 -----
  
-## WordPress (ENT)
+## WordPress (ENT / Portail CDI & Portail Candidatures)
 
-- Général : https://doc.ubuntu-fr.org/wordpress
+- [Général](https://doc.ubuntu-fr.org/wordpress)
 
-- Installation : https://linuxconfig.org/how-to-install-wordpress-on-ubuntu-18-04-bionic-beaver-linux
+- [Installation](https://linuxconfig.org/how-to-install-wordpress-on-ubuntu-18-04-bionic-beaver-linux)
 
-- GDPR Cookie Compliance : https://fr.wordpress.org/plugins/gdpr-cookie-compliance
+- [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
-- Sécurité : https://kinsta.com/fr/blog/securite-wordpress
+- [Sécurité](https://kinsta.com/fr/blog/securite-wordpress)
 
-- SecuPress : https://fr.wordpress.org/plugins/secupress
+- [SecuPress](https://fr.wordpress.org/plugins/secupress)
 
-- TinyMCE Advanced : https://fr.wordpress.org/plugins/tinymce-advanced
+- [TinyMCE Advanced](https://fr.wordpress.org/plugins/tinymce-advanced)
 
-- Classic Editor : https://fr.wordpress.org/plugins/classic-editor
+- [Classic Editor](https://fr.wordpress.org/plugins/classic-editor)
 
-- Yoast SEO : https://fr.wordpress.org/plugins/wordpress-seo
+- [Yoast SEO](https://fr.wordpress.org/plugins/wordpress-seo)
 
-- Yoast Duplicate Post : https://fr.wordpress.org/plugins/duplicate-post
+- [Yoast Duplicate Post](https://fr.wordpress.org/plugins/duplicate-post)
 
-- UpdraftPlus Backup Plugin : https://fr.wordpress.org/plugins/updraftplus
+- [UpdraftPlus Backup Plugin](https://fr.wordpress.org/plugins/updraftplus)
 
-- Thème Enfant : https://kinsta.com/fr/blog/theme-enfant-wordpress
+- [Thème Enfant](https://kinsta.com/fr/blog/theme-enfant-wordpress)
 
-- WP Job Manager : https://kinsta.com/fr/blog/plugin-emploi-wordpress
+- [WP Job Manager](https://kinsta.com/fr/blog/plugin-emploi-wordpress)
 
-- One Click Accessibility : https://fr.wordpress.org/plugins/pojo-accessibility
+- [One Click Accessibility](https://fr.wordpress.org/plugins/pojo-accessibility)
 
-- Guide WooCommerce : https://woofrance.fr/wp-content/uploads/2017/08/GUIDE-UTILISATEUR-WOOCOMMERCE-2017-2018.pdf
+- [Guide WooCommerce](https://woofrance.fr/wp-content/uploads/2017/08/GUIDE-UTILISATEUR-WOOCOMMERCE-2017-2018.pdf)
 
-- ColorMag : https://fr.wordpress.org/themes/colormag
+- [ColorMag](https://fr.wordpress.org/themes/colormag)
 
-- MH Magazine Lite : https://fr.wordpress.org/themes/mh-magazine-lite
+- [MH Magazine Lite](https://fr.wordpress.org/themes/mh-magazine-lite)
 
-- WooCommerce : https://fr.wordpress.org/plugins/woocommerce
+- [WooCommerce](https://fr.wordpress.org/plugins/woocommerce)
 
-- Authorizer : https://fr.wordpress.org/plugins/authorizer
+- [Authorizer](https://fr.wordpress.org/plugins/authorizer)
 
-- Font Awesome : https://fr.wordpress.org/plugins/font-awesome
+- [Font Awesome](https://fr.wordpress.org/plugins/font-awesome)
 
-- Easy Fancy Box : https://fr.wordpress.org/plugins/easy-fancybox
+- [Easy Fancy Box](https://fr.wordpress.org/plugins/easy-fancybox)
 
-- WP Hide & Security Enhancer : https://fr.wordpress.org/plugins/wp-hide-security-enhancer
+- [WP Hide & Security Enhancer](https://fr.wordpress.org/plugins/wp-hide-security-enhancer)
 
-- WP Private Content Plus : https://fr.wordpress.org/plugins/wp-private-content-plus
+- [WP Private Content Plus](https://fr.wordpress.org/plugins/wp-private-content-plus)
 
-- Nav Menu Roles : https://fr.wordpress.org/plugins/nav-menu-roles
+- [Nav Menu Roles](https://fr.wordpress.org/plugins/nav-menu-roles)
 
-- BreadCrumb Nav XT : https://fr.wordpress.org/plugins/breadcrumb-navxt
+- [BreadCrumb Nav XT](https://fr.wordpress.org/plugins/breadcrumb-navxt)
 
 -----
  
 ## NextCloud
 
-- Installation : https://docs.nextcloud.com/server/18/admin_manual/installation/source_installation.html
+- [Installation](https://docs.nextcloud.com/server/18/admin_manual/installation/source_installation.html)
 
-- Exemple - Installation (Ubuntu) : https://docs.nextcloud.com/server/18/admin_manual/installation/example_ubuntu.html
+- [Exemple - Installation (Ubuntu)](https://docs.nextcloud.com/server/18/admin_manual/installation/example_ubuntu.html)
 
 -----
 
 ## Moodle
 
-- Thème Academi : https://moodle.org/plugins/theme_academi
+- [Thème Academi](https://moodle.org/plugins/theme_academi)
 
 -----
  
 ## Cachet
 
-- Installation : https://www.howtoforge.com/tutorial/how-to-install-cachet-status-page-system-on-debian
+- [Installation](https://www.howtoforge.com/tutorial/how-to-install-cachet-status-page-system-on-debian)
 
-- Pré-Requis : https://docs.cachethq.io/docs/prerequisites
+- [Pré-Requis](https://docs.cachethq.io/docs/prerequisites)
 
-- Documentation : https://docs.cachethq.io/docs/installing-cachet
+- [Documentation](https://docs.cachethq.io/docs/installing-cachet)
 
 -----
 
 ## Kanboard
 
-- Documentation : https://docs.kanboard.org/fr/latest
+- [Documentation](https://docs.kanboard.org/fr/latest)
 
-- Installation : https://framacloud.org/fr/cultiver-son-jardin/kanboard.html
+- [Installation](https://framacloud.org/fr/cultiver-son-jardin/kanboard.html)
 
-- Guide "Administrateur" : https://docs.kanboard.org/en/latest/admin_guide/index.html
+- [Guide "Administrateur"](https://docs.kanboard.org/en/latest/admin_guide/index.html)
 
 -----
 
 ## HumHub (Intranet)
 
-- Documentation : https://docs.humhub.org
+- [Documentation](https://docs.humhub.org)
