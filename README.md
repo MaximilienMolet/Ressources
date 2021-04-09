@@ -4,13 +4,13 @@
  
 ## Général
 
-- Certificats SSL : [https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate](https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate)
+- [Certificats SSL](https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate)
 
-- Installation - VirtualBox : https://www.informatiweb.net/tutoriels/informatique/virtualisation/virtualbox-installation-sous-linux.html
+- [Installation - VirtualBox](https://www.informatiweb.net/tutoriels/informatique/virtualisation/virtualbox-installation-sous-linux.html)
 
-- Installation - Serveur NTP (Geek 17) : https://www.geek17.com/fr/content/debian-9-stretch-mettre-a-jour-automatiquement-l-heure-de-votre-serveur-62
+- [Installation - Serveur NTP (Geek 17)](https://www.geek17.com/fr/content/debian-9-stretch-mettre-a-jour-automatiquement-l-heure-de-votre-serveur-62)
 
-- Installation - Serveur NTP (Digital Ocean) : https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-18-04
+- [Installation - Serveur NTP (Digital Ocean)](https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-18-04)
 
 - Commandes de Base - Linux : https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base
 
