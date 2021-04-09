@@ -76,11 +76,9 @@
 
 - [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
-- [Redirection HTTP / HTTPS](https://linuxize.com/post/redirect-http-to-https-in-apache)
-
 -----
  
-## WordPress (ENT / Portail CDI & Portail Candidatures)
+## WordPress (Portail CDI)
 
 - [Général](https://doc.ubuntu-fr.org/wordpress)
 
@@ -108,13 +106,9 @@
 
 - [One Click Accessibility](https://fr.wordpress.org/plugins/pojo-accessibility)
 
-- [Guide WooCommerce](https://woofrance.fr/wp-content/uploads/2017/08/GUIDE-UTILISATEUR-WOOCOMMERCE-2017-2018.pdf)
-
 - [ColorMag](https://fr.wordpress.org/themes/colormag)
 
 - [MH Magazine Lite](https://fr.wordpress.org/themes/mh-magazine-lite)
-
-- [WooCommerce](https://fr.wordpress.org/plugins/woocommerce)
 
 - [Authorizer](https://fr.wordpress.org/plugins/authorizer)
 
@@ -143,26 +137,6 @@
 ## Moodle
 
 - [Thème Academi](https://moodle.org/plugins/theme_academi)
-
------
- 
-## Cachet
-
-- [Installation](https://www.howtoforge.com/tutorial/how-to-install-cachet-status-page-system-on-debian)
-
-- [Pré-Requis](https://docs.cachethq.io/docs/prerequisites)
-
-- [Documentation](https://docs.cachethq.io/docs/installing-cachet)
-
------
-
-## Kanboard
-
-- [Documentation](https://docs.kanboard.org/fr/latest)
-
-- [Installation](https://framacloud.org/fr/cultiver-son-jardin/kanboard.html)
-
-- [Guide "Administrateur"](https://docs.kanboard.org/en/latest/admin_guide/index.html)
 
 -----
 
