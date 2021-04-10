@@ -20,7 +20,7 @@
 
 - [Hosts Man](http://www.abelhadigital.com/hostsman)
 
-- [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-debian-9)
+- [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr)
 
 -----
 
