@@ -66,8 +66,6 @@
 
 - [PHP](https://doc.ubuntu-fr.org/php)
 
-- [PHP - Version 7.x](https://www.itzgeek.com/how-tos/linux/debian/how-to-install-php-7-3-7-2-7-1-on-debian-10-debian-9-debian-8.html)
-
 - [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
 
 -----
@@ -118,9 +116,9 @@
  
 ## NextCloud
 
-- [Installation](https://docs.nextcloud.com/server/18/admin_manual/installation/source_installation.html)
+- [Installation](https://docs.nextcloud.com/server/20/admin_manual/installation/source_installation.html)
 
-- [Exemple - Installation (Ubuntu)](https://docs.nextcloud.com/server/18/admin_manual/installation/example_ubuntu.html)
+- [Exemple - Installation (Ubuntu)](https://docs.nextcloud.com/server/20/admin_manual/installation/example_ubuntu.html)
 
 -----
 
