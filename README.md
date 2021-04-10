@@ -136,6 +136,6 @@
 
 -----
 
-## HumHub (Intranet)
+## HumHub (ENT)
 
 - [Documentation](https://docs.humhub.org)
