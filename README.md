@@ -47,12 +47,6 @@
 - [Installation (Linuxize)](https://linuxize.com/post/how-to-install-gitea-on-ubuntu-18-04)
 
 -----
-
-## BookStack (Documentation)
-
-- [Documentation](https://www.bookstackapp.com/docs)
-
------
  
 ## LDAP
 
