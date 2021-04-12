@@ -16,11 +16,7 @@
 
 - [Installation - Serveur FTP](https://doc.ubuntu-fr.org/proftpd)
 
-- [Installation - Team Viewer](https://artheodoc.wordpress.com/2017/07/06/installation-de-teamviewer-sous-debian-9-stretch-64-bits)
-
 - [Hosts Man](http://www.abelhadigital.com/hostsman)
-
-- [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr)
 
 -----
 
@@ -31,20 +27,6 @@
 - [Installation (How To Forge)](https://www.howtoforge.com/tutorial/debian-samba-server)
 
 - [Installation (Linux Config)](https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux)
-
------
- 
-## Gitea (Forge)
-
-- [Documentation](https://docs.gitea.io/en-us)
-
-- [Installation (Website for Students)](https://websiteforstudents.com/how-to-install-gitea-on-ubuntu-20-04-18-04)
-
-- [Installation (Linux Host Support)](https://linuxhostsupport.com/blog/how-to-install-gitea-on-ubuntu-18-04)
-
-- [Installation (Computing for Geeks)](https://computingforgeeks.com/how-to-install-gitea-git-service-on-ubuntu)
-
-- [Installation (Linuxize)](https://linuxize.com/post/how-to-install-gitea-on-ubuntu-18-04)
 
 -----
  
@@ -70,7 +52,7 @@
 
 -----
  
-## WordPress (Portail CDI)
+## WordPress (ENT & Portail CDI)
 
 - [Général](https://doc.ubuntu-fr.org/wordpress)
 
@@ -113,21 +95,7 @@
 - [BreadCrumb Nav XT](https://fr.wordpress.org/plugins/breadcrumb-navxt)
 
 -----
- 
-## NextCloud
-
-- [Installation](https://docs.nextcloud.com/server/20/admin_manual/installation/source_installation.html)
-
-- [Exemple - Installation (Ubuntu)](https://docs.nextcloud.com/server/20/admin_manual/installation/example_ubuntu.html)
-
------
 
 ## Moodle
 
 - [Thème Academi](https://moodle.org/plugins/theme_academi)
-
------
-
-## HumHub (ENT)
-
-- [Documentation](https://docs.humhub.org)
