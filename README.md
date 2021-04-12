@@ -6,8 +6,6 @@
 
 - [Certificats SSL](https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate)
 
-- [Installation - VirtualBox](https://www.informatiweb.net/tutoriels/informatique/virtualisation/virtualbox-installation-sous-linux.html)
-
 - [Installation - Serveur NTP (Geek 17)](https://www.geek17.com/fr/content/debian-9-stretch-mettre-a-jour-automatiquement-l-heure-de-votre-serveur-62)
 
 - [Installation - Serveur NTP (Digital Ocean)](https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-18-04)
