@@ -24,8 +24,6 @@
 
 - [Installation (How To Forge)](https://www.howtoforge.com/tutorial/debian-samba-server)
 
-- [Installation (Linux Config)](https://linuxconfig.org/how-to-configure-samba-server-share-on-debian-9-stretch-linux)
-
 -----
  
 ## LDAP
