@@ -16,6 +16,14 @@
 
 - [Hosts Man](http://www.abelhadigital.com/hostsman)
 
+- [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr)
+
+- [Atom](https://discuss.atom.io/t/windows-install-location/14100)
+
+- [Patch My PC Home Updater](https://patchmypc.com/home-updater)
+
+- [Server Status](https://github.com/server-status-project/server-status)
+
 -----
 
 ## Samba
@@ -23,6 +31,8 @@
 - [Installation (Server World)](https://www.server-world.info/en/note?os=Debian_9&p=samba&f=2)
 
 - [Installation (How To Forge)](https://www.howtoforge.com/tutorial/debian-samba-server)
+
+- [Samba et Webmin](https://pierrebaudin.files.wordpress.com/2015/05/tuto_samba1.pdf)
 
 -----
  
@@ -89,6 +99,10 @@
 - [Nav Menu Roles](https://fr.wordpress.org/plugins/nav-menu-roles)
 
 - [BreadCrumb Nav XT](https://fr.wordpress.org/plugins/breadcrumb-navxt)
+
+- [WP Job Manager](https://fr.wordpress.org/plugins/wp-job-manager)
+
+- [Restrict User Access](https://fr.wordpress.org/plugins/restrict-user-access)
 
 -----
 
