@@ -35,10 +35,14 @@
 - [Samba et Webmin](https://pierrebaudin.files.wordpress.com/2015/05/tuto_samba1.pdf)
 
 -----
+
+## Messagerie
+
+- [iRedMail](https://iredmail.org)
+
+-----
  
 ## LDAP
-
-- [Installation - OpenLDAP](http://idum.fr/spip.php?article326)
 
 - [LDAP Admin](http://www.ldapadmin.org)
 
