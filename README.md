@@ -36,13 +36,21 @@
 
 -----
 
-## Messagerie
+## Rocket Chat
 
-- [iRedMail](https://iredmail.org)
+- [Installation](https://www.howtoforge.com/how-to-install-rocketchat-server-with-nginx-on-ubuntu-20-04)
+
+-----
+
+## PeerTube
+
+- [Installation](https://docs.joinpeertube.org/install-any-os)
 
 -----
  
 ## LDAP
+
+- [Installation](http://idum.fr/spip.php?article326)
 
 - [LDAP Admin](http://www.ldapadmin.org)
 
@@ -104,8 +112,6 @@
 
 - [BreadCrumb Nav XT](https://fr.wordpress.org/plugins/breadcrumb-navxt)
 
-- [WP Job Manager](https://fr.wordpress.org/plugins/wp-job-manager)
-
 - [Restrict User Access](https://fr.wordpress.org/plugins/restrict-user-access)
 
 -----
@@ -113,3 +119,9 @@
 ## Moodle
 
 - [Thème Academi](https://moodle.org/plugins/theme_academi)
+
+-----
+
+## Support
+
+- [GestSup](https://gestsup.fr)
