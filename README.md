@@ -114,6 +114,10 @@
 
 - [Restrict User Access](https://fr.wordpress.org/plugins/restrict-user-access)
 
+- [Custom Login Page Customizer](https://fr.wordpress.org/plugins/loginpress)
+
+- [Child Theme Configurator](https://fr.wordpress.org/plugins/child-theme-configurator)
+
 -----
 
 ## Moodle
