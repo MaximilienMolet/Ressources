@@ -72,7 +72,7 @@
  
 ## WordPress (ENT & Portail CDI)
 
-- [Installation](https://www.tecmint.com/install-wordpress-with-nginx-in-ubuntu-20-04)
+- [Général](https://doc.ubuntu-fr.org/wordpress)
 
 - [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
