@@ -72,9 +72,7 @@
  
 ## WordPress (ENT & Portail CDI)
 
-- [Général](https://doc.ubuntu-fr.org/wordpress)
-
-- [Installation](https://linuxconfig.org/how-to-install-wordpress-on-ubuntu-18-04-bionic-beaver-linux)
+- [Installation](https://www.tecmint.com/install-wordpress-with-nginx-in-ubuntu-20-04)
 
 - [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
@@ -123,9 +121,3 @@
 ## Moodle
 
 - [Thème Academi](https://moodle.org/plugins/theme_academi)
-
------
-
-## Support
-
-- [GestSup](https://gestsup.fr)
