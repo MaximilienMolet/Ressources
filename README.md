@@ -14,11 +14,7 @@
 
 - [Installation - Serveur FTP](https://doc.ubuntu-fr.org/proftpd)
 
-- [Hosts Man](http://www.abelhadigital.com/hostsman)
-
 - [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr)
-
-- [Atom](https://discuss.atom.io/t/windows-install-location/14100)
 
 - [Patch My PC Home Updater](https://patchmypc.com/home-updater)
 
@@ -48,14 +44,6 @@
 
 -----
  
-## LDAP
-
-- [Installation](http://idum.fr/spip.php?article326)
-
-- [LDAP Admin](http://www.ldapadmin.org)
-
------
- 
 ## Lamp
 
 - [Général](https://doc.ubuntu-fr.org/lamp)
@@ -70,7 +58,7 @@
 
 -----
  
-## WordPress (ENT & Portail CDI)
+## WordPress (Portail CDI)
 
 - [Général](https://doc.ubuntu-fr.org/wordpress)
 
@@ -90,31 +78,23 @@
 
 - [UpdraftPlus Backup Plugin](https://fr.wordpress.org/plugins/updraftplus)
 
-- [Thème Enfant](https://kinsta.com/fr/blog/theme-enfant-wordpress)
-
-- [One Click Accessibility](https://fr.wordpress.org/plugins/pojo-accessibility)
-
-- [ColorMag](https://fr.wordpress.org/themes/colormag)
-
-- [Authorizer](https://fr.wordpress.org/plugins/authorizer)
-
 - [Font Awesome](https://fr.wordpress.org/plugins/font-awesome)
 
 - [Easy Fancy Box](https://fr.wordpress.org/plugins/easy-fancybox)
 
 - [WP Hide & Security Enhancer](https://fr.wordpress.org/plugins/wp-hide-security-enhancer)
 
-- [WP Private Content Plus](https://fr.wordpress.org/plugins/wp-private-content-plus)
-
 - [Nav Menu Roles](https://fr.wordpress.org/plugins/nav-menu-roles)
 
 - [BreadCrumb Nav XT](https://fr.wordpress.org/plugins/breadcrumb-navxt)
 
-- [Restrict User Access](https://fr.wordpress.org/plugins/restrict-user-access)
-
-- [Custom Login Page Customizer](https://fr.wordpress.org/plugins/loginpress)
+- [Custom Login Page Customizer](https://fr.wordpress.org/plugins/colorlib-login-customizer)
 
 - [Child Theme Configurator](https://fr.wordpress.org/plugins/child-theme-configurator)
+
+- [Customify](https://fr.wordpress.org/themes/customify)
+
+- [Admin Menu Editor](https://fr.wordpress.org/plugins/admin-menu-editor)
 
 -----
 
