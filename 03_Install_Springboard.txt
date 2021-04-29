@@ -1,0 +1,19 @@
+cd /home/ent
+git clone https://github.com/MaximilienMolet/springboard-open-ent.git
+cd springboard-open-ent
+nano conf.properties
+host=https://ent.mondomaine.fr
+skins={"ent.mondomaine.fr":"leo"}
+Commandes à lancer lors de l'installation
+./build.sh init
+nano docker-compose.yml
+Remplacez :8090 par 8090:8090
+./build.sh generateConf
+chown -R ent /home/ent/springboard-open-ent
+exit
+cd /home/ent/springboard-open-ent
+./build.sh buildFront
+sudo su
+./build.sh run
+Commande à lancer dans les autres cas :
+./build.sh run
