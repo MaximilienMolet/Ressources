@@ -1,0 +1,7 @@
+apt-get update
+apt-get install nginx
+Placez le certificat SSL et la clé privée correspondant ici : /etc/nginx
+cat ssl.crt ssl.key > ssl.pem
+nano /etc/nginx/sites-available/ent
+ln -s /etc/nginx/sites-available/ent /etc/nginx/sites-enabled
+service nginx restart
