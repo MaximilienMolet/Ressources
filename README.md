@@ -100,6 +100,8 @@
 
 ## Open ENT NG
 
+- [Configuration](https://github.com/opendigitaleducation/reference-manual/blob/master/first-steps/minimal-plateform-config.md)
+
 -----
 
 ## Moodle
