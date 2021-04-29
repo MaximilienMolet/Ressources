@@ -1,6 +1,6 @@
 apt-get update
 apt-get install nginx
-openssl genrsa -des3 -out myCA.key 2048
+openssl genrsa -out myCA.key 2048
 openssl req -x509 -new -nodes -key myCA.key -sha256 -days 365 -out myCA.pem
 openssl genrsa -out ssl.key 2048
 openssl req -new -key ssl.key -out myCert.csr
