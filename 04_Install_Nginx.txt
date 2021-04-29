@@ -23,6 +23,7 @@ openssl x509 -req -in myCert.csr -CA myCA.pem -CAkey myCA.key -CAcreateserial \
 -out ssl.crt -days 825 -sha256 -extfile myCert.ext
 cp ssl.crt /etc/nginx
 cp ssl.key /etc/nginx
+cd /etc/nginx
 cat ssl.crt ssl.key > ssl.pem
 nano /etc/nginx/sites-available/ent
 ln -s /etc/nginx/sites-available/ent /etc/nginx/sites-enabled
