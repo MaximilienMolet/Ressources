@@ -72,7 +72,7 @@
 
 -----
  
-## EN ATTENTE -- WordPress (Portail CDI)
+## EN ATTENTE -- # WordPress (Portail CDI)
 
 - [Général](https://doc.ubuntu-fr.org/wordpress)
 
