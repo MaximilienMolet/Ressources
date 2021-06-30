@@ -14,31 +14,33 @@
 
 - [Installation - Serveur FTP](https://doc.ubuntu-fr.org/proftpd)
 
-- [Webmin](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-20-04-fr)
-
 - [Patch My PC Home Updater](https://patchmypc.com/home-updater)
 
-- [Server Status](https://github.com/server-status-project/server-status)
+- [Langue - Ubuntu 20.04](http://eole.ac-dijon.fr/documentations/2.8/completes/HTML/ModuleScribe/co/02_medias.html)
+
+- [Tar](https://doc.ubuntu-fr.org/tar)
+
+-----
+
+## Webmin
+
+- [Général](https://doc.ubuntu-fr.org/webmin)
+
+- [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-18-04)
+
+- [SSL](https://www.skyminds.net/serveur-dedie-configurer-webmin-tls-certificat-ssl)
 
 -----
 
 ## Samba
 
-- [Installation (Server World)](https://www.server-world.info/en/note?os=Debian_9&p=samba&f=2)
-
-- [Installation (How To Forge)](https://www.howtoforge.com/tutorial/debian-samba-server)
+- [Installation](https://linuxize.com/post/how-to-install-and-configure-samba-on-ubuntu-18-04)
 
 - [Samba et Webmin](https://pierrebaudin.files.wordpress.com/2015/05/tuto_samba1.pdf)
 
 -----
 
-## Rocket Chat
-
-- [Installation](https://www.howtoforge.com/how-to-install-rocketchat-server-with-nginx-on-ubuntu-20-04)
-
------
-
-## PeerTube
+## EN ATTENTE -- ## PeerTube
 
 - [Installation](https://docs.joinpeertube.org/install-any-os)
 
@@ -54,11 +56,9 @@
 
 - [PHP](https://doc.ubuntu-fr.org/php)
 
-- [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04)
-
 -----
  
-## WordPress (Portail CDI)
+## EN ATTENTE -- WordPress (Portail CDI)
 
 - [Général](https://doc.ubuntu-fr.org/wordpress)
 
@@ -98,12 +98,6 @@
 
 -----
 
-## Open ENT NG
+## NextCloud
 
-- [Configuration](https://github.com/opendigitaleducation/reference-manual/blob/master/first-steps/minimal-plateform-config.md)
-
------
-
-## Moodle
-
-- [Thème Academi](https://moodle.org/plugins/theme_academi)
+- [Applications](https://www.linuxtricks.fr/wiki/print.php?id=759)
