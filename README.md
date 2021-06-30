@@ -32,6 +32,14 @@
 
 -----
 
+## LDAP
+
+- [Installation](http://idum.fr/spip.php?article326)
+
+- [LDAP Admin](http://www.ldapadmin.org)
+
+-----
+
 ## Samba
 
 - [Installation](https://linuxize.com/post/how-to-install-and-configure-samba-on-ubuntu-18-04)
