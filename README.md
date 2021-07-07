@@ -114,6 +114,14 @@
 
 -----
 
+## PMB
+
+- [Installation](https://tribu.phm.education.gouv.fr/portal/share/TI5SQL)
+
+- [Téléchargement](https://pmbnormandie.wordpress.com/zone-de-telechargement)
+
+-----
+
 ## NextCloud
 
 - [Installation - Ubuntu 20.04](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
