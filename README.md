@@ -100,9 +100,9 @@
 
 - [Customify](https://fr.wordpress.org/themes/customify)
 
-- [Admin Menu Editor](https://fr.wordpress.org/plugins/admin-menu-editor)
+- [Admin Menu Editor](https://fr.wordpress.org/plugins/admin-menu-editor) -->
 
------ -->
+-----
 
 ## NextCloud
 
