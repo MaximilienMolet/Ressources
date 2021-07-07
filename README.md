@@ -6,8 +6,6 @@
 
 - [Certificats SSL](https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate)
 
-- [Installation - Serveur NTP (Geek 17)](https://www.geek17.com/fr/content/debian-9-stretch-mettre-a-jour-automatiquement-l-heure-de-votre-serveur-62)
-
 - [Installation - Serveur NTP (Digital Ocean)](https://www.digitalocean.com/community/tutorials/how-to-set-up-time-synchronization-on-ubuntu-18-04)
 
 - [Commandes de Base - Linux](https://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base)
@@ -48,12 +46,6 @@
 
 -----
 
-## EN ATTENTE -- ## PeerTube
-
-- [Installation](https://docs.joinpeertube.org/install-any-os)
-
------
-
 ## GestSup
 
 - [Général](https://gestsup.fr)
@@ -74,7 +66,7 @@
  
 ## EN ATTENTE -- ## WordPress (Portail CDI)
 
-- [Général](https://doc.ubuntu-fr.org/wordpress)
+<!--- [Général](https://doc.ubuntu-fr.org/wordpress)
 
 - [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
@@ -110,7 +102,7 @@
 
 - [Admin Menu Editor](https://fr.wordpress.org/plugins/admin-menu-editor)
 
------
+----- -->
 
 ## NextCloud
 
