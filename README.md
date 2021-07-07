@@ -18,6 +18,8 @@
 
 - [Tar](https://doc.ubuntu-fr.org/tar)
 
+- [Hostname](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-20-04)
+
 -----
 
 ## Webmin
@@ -35,6 +37,14 @@
 - [Installation](http://idum.fr/spip.php?article326)
 
 - [LDAP Admin](http://www.ldapadmin.org)
+
+-----
+
+## Messagerie
+
+- [iRedMail](https://iredmail.org)
+
+- [Roundcube](https://www.linuxbabe.com/ubuntu/install-roundcube-webmail-ubuntu-20-04-apache-nginx)
 
 -----
 
@@ -64,7 +74,7 @@
 
 -----
  
-## EN ATTENTE -- ## WordPress (Portail CDI)
+## EN ATTENTE -- ## WordPress (ENT)
 
 <!--- [Général](https://doc.ubuntu-fr.org/wordpress)
 
@@ -106,4 +116,6 @@
 
 ## NextCloud
 
-- [Applications](https://www.linuxtricks.fr/wiki/print.php?id=759)
+- [Installation - Ubuntu 20.04](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
+
+- [Installation - Linux](https://docs.nextcloud.com/server/stable/admin_manual/installation/source_installation.html)
