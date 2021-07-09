@@ -28,8 +28,6 @@
 
 - [Installation](https://www.digitalocean.com/community/tutorials/how-to-install-webmin-on-ubuntu-18-04)
 
-- [SSL](https://www.skyminds.net/serveur-dedie-configurer-webmin-tls-certificat-ssl)
-
 -----
 
 ## LDAP
@@ -37,14 +35,6 @@
 - [Installation](http://idum.fr/spip.php?article326)
 
 - [LDAP Admin](http://www.ldapadmin.org)
-
------
-
-## Messagerie
-
-- [iRedMail](https://iredmail.org)
-
-- [Roundcube](https://www.linuxbabe.com/ubuntu/install-roundcube-webmail-ubuntu-20-04-apache-nginx)
 
 -----
 
@@ -127,3 +117,9 @@
 - [Installation - Ubuntu 20.04](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
 
 - [Installation - Linux](https://docs.nextcloud.com/server/stable/admin_manual/installation/source_installation.html)
+
+-----
+
+## Chamilo
+
+- [Général](https://chamilo.org/fr)
