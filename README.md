@@ -1,6 +1,10 @@
 # Accueil
 
 -----
+
+- [x] MAJ : 09/07/2021
+
+-----
  
 ## Général
 
@@ -64,7 +68,7 @@
 
 -----
  
-## EN ATTENTE -- ## WordPress (ENT)
+## EN ATTENTE -- ## WordPress
 
 <!--- [Général](https://doc.ubuntu-fr.org/wordpress)
 
@@ -101,6 +105,12 @@
 - [Customify](https://fr.wordpress.org/themes/customify)
 
 - [Admin Menu Editor](https://fr.wordpress.org/plugins/admin-menu-editor) -->
+
+-----
+
+## HumHub
+
+- [Général](https://www.humhub.com/en)
 
 -----
 
