@@ -73,6 +73,8 @@
 - [Installation](https://www.howtoforge.com/how-to-install-rocketchat-server-with-nginx-on-ubuntu-20-04)
 
 - [Reverse Proxy & SSL](https://docs.rocket.chat/installing-and-updating/manual-installation/configuring-ssl-reverse-proxy)
+
+-----
  
 ## EN ATTENTE -- ## WordPress
 
