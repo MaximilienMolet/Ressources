@@ -49,12 +49,6 @@
 - [Samba et Webmin](https://pierrebaudin.files.wordpress.com/2015/05/tuto_samba1.pdf)
 
 -----
-
-## GestSup
-
-- [Général](https://gestsup.fr)
-
------
  
 ## Lamp
 
@@ -76,11 +70,11 @@
 
 -----
  
-## EN ATTENTE -- ## WordPress
+## WordPress
 
-<!--- [Général](https://doc.ubuntu-fr.org/wordpress)
+[Général](https://doc.ubuntu-fr.org/wordpress)
 
-- [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
+<!--- [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
 - [Sécurité](https://kinsta.com/fr/blog/securite-wordpress)
 
@@ -116,25 +110,11 @@
 
 -----
 
-## HumHub
-
-- [Général](https://www.humhub.com/en)
-
------
-
 ## PMB
 
 - [Installation](https://tribu.phm.education.gouv.fr/portal/share/TI5SQL)
 
 - [Téléchargement](https://pmbnormandie.wordpress.com/zone-de-telechargement)
-
------
-
-## NextCloud
-
-- [Installation - Ubuntu 20.04](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
-
-- [Installation - Linux](https://docs.nextcloud.com/server/stable/admin_manual/installation/source_installation.html)
 
 -----
 
