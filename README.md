@@ -72,7 +72,7 @@
  
 ## WordPress
 
-[Général](https://doc.ubuntu-fr.org/wordpress)
+- [Général](https://doc.ubuntu-fr.org/wordpress)
 
 <!--- [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
