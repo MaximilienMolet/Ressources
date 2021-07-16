@@ -2,7 +2,7 @@
 
 -----
 
-:white_check_mark: MAJ : 14/07/2021
+:white_check_mark: MAJ : 16/07/2021
 
 -----
  
@@ -74,7 +74,7 @@
 
 - [Général](https://doc.ubuntu-fr.org/wordpress)
 
-<!--- [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
+- [GDPR Cookie Compliance](https://fr.wordpress.org/plugins/gdpr-cookie-compliance)
 
 - [Sécurité](https://kinsta.com/fr/blog/securite-wordpress)
 
@@ -98,15 +98,11 @@
 
 - [Nav Menu Roles](https://fr.wordpress.org/plugins/nav-menu-roles)
 
-- [BreadCrumb Nav XT](https://fr.wordpress.org/plugins/breadcrumb-navxt)
-
 - [Custom Login Page Customizer](https://fr.wordpress.org/plugins/colorlib-login-customizer)
 
 - [Child Theme Configurator](https://fr.wordpress.org/plugins/child-theme-configurator)
 
 - [Customify](https://fr.wordpress.org/themes/customify)
-
-- [Admin Menu Editor](https://fr.wordpress.org/plugins/admin-menu-editor) -->
 
 -----
 
