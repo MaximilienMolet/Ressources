@@ -46,22 +46,6 @@
 
 -----
 
-## CAS
-
-- [Installation - Esup-Portail](https://www.esup-portail.org/wiki/pages/viewpage.action?pageId=972292097)
-
-- [Service Registry](https://dacurry-tns.github.io/deploying-apereo-cas/building_server_ldap_resolution-release_update-the-service-registry.html)
-
-- [Installation - OsNetWorking](https://www.osnetworking.com/fr/apereo-cas)
-
-- [Tomcat](https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-18-04)
-
-- [Java](https://linuxize.com/post/install-java-on-ubuntu-18-04)
-
-- [Dépôt GitHub](https://github.com/MaximilienMolet/CAS)
-
------
-
 ## Samba
 
 - [Installation](https://linuxize.com/post/how-to-install-and-configure-samba-on-ubuntu-18-04)
