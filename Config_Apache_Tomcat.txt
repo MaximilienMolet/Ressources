@@ -114,7 +114,7 @@
 
     <!-- Define an AJP 1.3 Connector on port 8009 -->
     <Connector protocol="AJP/1.3"
-               address="192.168.1.21"
+               address="ADRESSE_IP_DU_SERVEUR_TOMCAT"
                port="8009"
                redirectPort="8443"
                secret="AJP13"
