@@ -2,7 +2,7 @@
 
 -----
 
-:white_check_mark: MAJ : 16/07/2021
+:white_check_mark: MAJ : 20/07/2021
 
 -----
  
@@ -24,6 +24,10 @@
 
 - [Hostname](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-20-04)
 
+- [Cron](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-fr)
+
+- [Zip](https://doc.ubuntu-fr.org/zip)
+
 -----
 
 ## Webmin
@@ -39,6 +43,20 @@
 - [Installation](http://idum.fr/spip.php?article326)
 
 - [LDAP Admin](http://www.ldapadmin.org)
+
+-----
+
+## CAS
+
+- [Installation - Esup-Portail](https://www.esup-portail.org/wiki/pages/viewpage.action?pageId=972292097)
+
+- [Service Registry](https://dacurry-tns.github.io/deploying-apereo-cas/building_server_ldap_resolution-release_update-the-service-registry.html)
+
+- [Installation - OsNetWorking](https://www.osnetworking.com/fr/apereo-cas)
+
+- [Tomcat](https://linuxize.com/post/how-to-install-tomcat-9-on-ubuntu-18-04)
+
+- [Java](https://linuxize.com/post/install-java-on-ubuntu-18-04)
 
 -----
 
@@ -59,6 +77,10 @@
 - [MySQL](https://doc.ubuntu-fr.org/mysql)
 
 - [PHP](https://doc.ubuntu-fr.org/php)
+
+- [Config - Apache](https://docs.nextcloud.com/server/stable/admin_manual/installation/source_installation.html)
+
+- [Installation PHP & MySQL](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
 
 -----
 
@@ -114,6 +136,10 @@
 
 -----
 
-## Chamilo
+## Moodle
 
-- [Général](https://chamilo.org/fr)
+- [Général](https://moodle.org)
+
+- [Cron](https://docs.moodle.org/3x/fr/Cron)
+
+- [Tâches Programmées](https://docs.moodle.org/3x/fr/T%C3%A2ches_programm%C3%A9es)
