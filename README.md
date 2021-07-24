@@ -2,7 +2,7 @@
 
 -----
 
-:white_check_mark: MAJ : 20/07/2021
+:white_check_mark: MAJ : 24/07/2021
 
 -----
  
@@ -23,8 +23,6 @@
 - [Tar](https://doc.ubuntu-fr.org/tar)
 
 - [Hostname](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-20-04)
-
-- [Cron](https://www.digitalocean.com/community/tutorials/how-to-use-cron-to-automate-tasks-ubuntu-1804-fr)
 
 - [Zip](https://doc.ubuntu-fr.org/zip)
 
@@ -114,18 +112,26 @@
 
 -----
 
-## PMB
+## Koha
 
-- [Installation](https://tribu.phm.education.gouv.fr/portal/share/TI5SQL)
+- [Installation](https://wiki.koha-community.org/wiki/Koha_on_Debian)
 
-- [Téléchargement](https://pmbnormandie.wordpress.com/zone-de-telechargement)
+- [Manuel 21.05](https://koha-community.org/manual/21.05/fr/html/index.html)
+
+- [Manuel 20.11](https://koha-community.org/manual/20.11/fr/html/index.html)
+
+- [Java](https://linuxize.com/post/install-java-on-ubuntu-18-04)
+
+-----
+
+## Eole - Scribe
+
+- [Manuel 2.6](http://eole.ac-dijon.fr/documentations/2.6/completes/HTML/ModuleScribe/co/ModuleScribe.html)
+
+- [Applications](http://eole.ac-dijon.fr/documentations/2.8/completes/HTML/ModuleScribe/co/51_appli_packagees.html)
 
 -----
 
 ## Moodle
 
 - [Général](https://moodle.org)
-
-- [Cron](https://docs.moodle.org/3x/fr/Cron)
-
-- [Tâches Programmées](https://docs.moodle.org/3x/fr/T%C3%A2ches_programm%C3%A9es)
