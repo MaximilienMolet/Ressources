@@ -5,6 +5,10 @@
 :white_check_mark: MAJ : 24/07/2021
 
 -----
+
+## Rubrique "Informatique" :
+
+-----
  
 ## Général
 
@@ -108,8 +112,6 @@
 
 - [Child Theme Configurator](https://fr.wordpress.org/plugins/child-theme-configurator)
 
-- [Customify](https://fr.wordpress.org/themes/customify)
-
 -----
 
 ## Koha
@@ -135,3 +137,35 @@
 ## Moodle
 
 - [Général](https://moodle.org)
+
+-----
+
+## Rubrique "Numérique" :
+
+- [Dossier de Liaison - Profs-Docs](http://blogonoisettes.canalblog.com/archives/2019/03/21/37195469.html)
+
+- [Prise de Fonction - Prof-Doc](https://www.mindomo.com/fr/mindmap/prise-de-fonctionmm-a158902ff48545c284b199395dff162c)
+
+- [Espace des Secrétaires d'EPLE de l'Académie de Grenoble](https://tribu.phm.education.gouv.fr/portal/pagemarker/3/cms/default-domain/workspaces/grenoble-secretaires-epl)
+
+- [Accès au BIOS / UEFI](https://www.tech2tech.fr/liste-des-touches-dacces-au-bios-uefi-par-constructeur-dell-hp-lenovo-asus-acer)
+
+- [Affiches sur les GAFAM](http://cdi.ac-amiens.fr/711-affiches-sur-les-gafam.html)
+
+- [Blocage - Application - Internet](https://www.pcastuces.com/pratique/astuces/4490.htm)
+
+- [Nom d’Utilisateur - Compte Windows 10](http://www.win10.fr/changer-nom-utilisateur-compte-windows10)
+
+- [Do Not Display Last Username in Logon Screen in Windows 10](https://www.thewindowsclub.com/make-windows-7-8-use-classic-logon-screen)
+
+- [Réinitialiser Windows 10](https://lecrabeinfo.net/reinitialiser-reinstaller-windows-10.html)
+
+- [Compte Local - Installation de Windows 10](https://www.malekal.com/creer-compte-local-installation-windows-10)
+
+- [Caractères Spéciaux](http://monsu.desiderio.free.fr/atelier/caracteres.html)
+
+- [Télécharger - ISO de Windows 7, 8.1 et 10](https://lecrabeinfo.net/telecharger-iso-de-windows-7-8-1-et-10-gratuitement.html)
+
+- [Captures d’Écran Vidéo - VLC](https://www.papergeek.fr/comment-faire-des-captures-ecran-video-avec-vlc-102729)
+
+- [VLC – Diffusion - Flux Audio ou Vidéo - Réseau Local](https://www.mediaforma.com/vlc-diffuser-flux-audio-video-reseau-local)
