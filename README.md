@@ -2,7 +2,7 @@
 
 -----
 
-:white_check_mark: MAJ : 24/07/2021
+:white_check_mark: MAJ : 27/07/2021
 
 -----
 
