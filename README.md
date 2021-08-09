@@ -75,20 +75,6 @@
 - [Installation PHP & MySQL](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
 
 -----
-
-## Fusion Directory
-
-- [Pré - Requis](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/prerequisite/prerequisite.html)
-
-- [Clé GPG](https://fusiondirectory-user-manual.readthedocs.io/en/latest/gpg/gpg-keys.html)
-
-- [Debian Repository](https://fusiondirectory-user-manual.readthedocs.io/en/latest/repositories/debian.html)
-
-- [Installation](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/install/debian/debian-fd-install.html)
-
-- [SupAnn](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/plugins/supann/installation.html)
-
------
  
 ## WordPress
 
