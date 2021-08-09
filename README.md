@@ -2,7 +2,7 @@
 
 -----
 
-:white_check_mark: MAJ : 27/07/2021
+:white_check_mark: MAJ : 09/08/2021
 
 -----
 
@@ -29,6 +29,8 @@
 - [Hostname](https://linuxize.com/post/how-to-change-hostname-on-ubuntu-20-04)
 
 - [Zip](https://doc.ubuntu-fr.org/zip)
+
+- [VirtualBox](https://tecadmin.net/install-virtualbox-debian-9-stretch)
 
 -----
 
@@ -66,17 +68,25 @@
 
 - [PHP](https://doc.ubuntu-fr.org/php)
 
-- [Config - Apache](https://docs.nextcloud.com/server/stable/admin_manual/installation/source_installation.html)
+- [Configuration PHP](https://tribu.phm.education.gouv.fr/portal/share/TI5SQL)
+
+- [Configuration - Apache](https://docs.nextcloud.com/server/stable/admin_manual/installation/source_installation.html)
 
 - [Installation PHP & MySQL](https://docs.nextcloud.com/server/stable/admin_manual/installation/example_ubuntu.html)
 
 -----
 
-## Rocket Chat
+## Fusion Directory
 
-- [Installation](https://www.howtoforge.com/how-to-install-rocketchat-server-with-nginx-on-ubuntu-20-04)
+- [Pré - Requis](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/prerequisite/prerequisite.html)
 
-- [Reverse Proxy & SSL](https://docs.rocket.chat/installing-and-updating/manual-installation/configuring-ssl-reverse-proxy)
+- [Clé GPG](https://fusiondirectory-user-manual.readthedocs.io/en/latest/gpg/gpg-keys.html)
+
+- [Debian Repository](https://fusiondirectory-user-manual.readthedocs.io/en/latest/repositories/debian.html)
+
+- [Installation](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/install/debian/debian-fd-install.html)
+
+- [SupAnn](https://fusiondirectory-user-manual.readthedocs.io/en/latest/fusiondirectory/plugins/supann/installation.html)
 
 -----
  
@@ -123,20 +133,6 @@
 - [Manuel 20.11](https://koha-community.org/manual/20.11/fr/html/index.html)
 
 - [Java](https://linuxize.com/post/install-java-on-ubuntu-18-04)
-
------
-
-## Eole - Scribe
-
-- [Manuel 2.6](http://eole.ac-dijon.fr/documentations/2.6/completes/HTML/ModuleScribe/co/ModuleScribe.html)
-
-- [Applications](http://eole.ac-dijon.fr/documentations/2.8/completes/HTML/ModuleScribe/co/51_appli_packagees.html)
-
------
-
-## Moodle
-
-- [Général](https://moodle.org)
 
 -----
 
